@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 
 
-<!--
-**perowhysoserious/perowhysoserious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity professional focusing on security authorization and cloud security. Currently building portfolio of security automation and cloud architecture projects.
+
 
 Here are some ideas to get you started:
 
